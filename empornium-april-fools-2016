@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name           Empornium April Fools 2016
 // @namespace      https://github.com/RolandLinSmith
+// @downloadURL    https://raw.githubusercontent.com/RolandLinSmith/Empornium-April-Fools-2016/master/empornium-april-fools-2016
 // @author         Roland Lin Smith
 // @description    Fix the april fools 180 deg rotation
 // @version        0.1
